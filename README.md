@@ -3,4 +3,4 @@
 
 # R sources
 
-[R sources](https://raw.githubusercontent.com/DrSaadLa/mllabs.github.io/gh-pages/Sources.html) 
+[R sources](https://github.com/DrSaadLa/mllabs.github.io/blob/gh-pages/Sources.html) 
